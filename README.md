@@ -8,4 +8,4 @@ In the CS-250 Software Development Lifecycle course I was able to gain a solid u
 
 DAD 220 was a fasincating course and introduced me to the world of databases. This couse focused on SQL (Structered Query Language). SQL is used to gain access and modify data that is stored in databases. When I think about data being stored. I think of everything that is held on Amazon's application. All this data has to be accessedd, retrived, and manuipulated. This is one example of why understanding databases is so important.
 
-[Software Designing and Engineering](
+[Software Design and Engineering](https://github.com/alversonzach/alversonzach/blob/main/Software%20Design%20and%20Engineering.md)
