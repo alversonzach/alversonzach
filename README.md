@@ -11,3 +11,7 @@ DAD 220 was a fasincating course and introduced me to the world of databases. Th
 ## [Software Design and Engineering](https://github.com/alversonzach/alversonzach/blob/main/Software%20Design%20and%20Engineering.md)
 
 A simple menu driven program to add, update, delete and show pets in an ArrayList
+
+## [Data Structures and Algorithms](https://github.com/alversonzach/alversonzach/blob/main/Data%20Structures%20and%20Algorithms.md)
+
+An enhancement on the first artifact with the option to show the items from the ArrayList in alphabetical order and an option to print a ticket with different prices based on the user's input
