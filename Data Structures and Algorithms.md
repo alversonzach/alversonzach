@@ -10,6 +10,8 @@ This artifact will be building off my first enhancement of the menu driven pet a
 
 I included this artifact in my ePortfolio because it demonstrates my ability to use different data structures such as using a while(true) loop to stay in the main menu in order to keep the items in the ArrayList from being removed. It also shows that I understand different algorithms by importing and using the sort() method to arrange the items in the ArrayList. The artifact has improved by being able to function like something a pet grooming operation would use. 
 
+### Artifact Two
+
 ```
 import java.util.ArrayList;  // Import package for ArrayLists
 import java.util.Scanner;  // Import package for user input
@@ -154,4 +156,26 @@ public class EnhancementTwo {
       }
     }
 }
+
 ```
+
+## Outcome
+![Screenshot (17)](https://user-images.githubusercontent.com/97413992/154818182-cd6b6acb-c845-4665-881c-941462f81eac.png)
+
+![Screenshot (18)](https://user-images.githubusercontent.com/97413992/154818231-bdfd1866-1393-4f0f-88d8-9897153bc479.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/97413992/154818253-958f8b1f-308a-4b96-acf7-7898b940817a.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/97413992/154818284-745a7496-0f39-42b7-8bc2-d10df3ab8f5f.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/97413992/154818310-8644a3bc-3129-4b47-aee9-e49f8b174cf6.png)
+
+### Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face? 
+
+Working on this enhancement taught me how to implement items from an array into a string using "%d. %s\n", opts[i], items[i]. I also learned how to import the collections library to use the sort() function to place the items from the list in alphbetical order. Also, I was able to use an if else statement to determine what price to print out for the user based upon the pet's weight. A challenge I faced was figuring out how to get the ArrayList in alphabetical order.
+
+
+
+
+
+
