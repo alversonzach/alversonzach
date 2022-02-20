@@ -323,7 +323,7 @@ mongod.exe --dbpath C:\Users\zacha\mongo-data
 
 ### Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
 
-This was a fun project to complete. I was familiar with MongoDB but not node.js, express, or JavaScript. For the most part I felt comfortable working with everything. Learning JavaScript was a bit difficult, but I felt that I overcame this to make it work. 
+This was a fun project to complete. I was familiar with MongoDB but not node.js, express, or JavaScript. For the most part I felt comfortable working with everything. Learning JavaScript was a bit difficult, but I felt that I overcame this to make it work. Something that could be added would be a security feature with a login and a password. 
 
 
 
