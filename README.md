@@ -24,3 +24,7 @@ An enhancement on the first artifact with the option to show the items from the 
 ## [Databases](https://github.com/alversonzach/alversonzach/blob/main/Databases.md)
 
 The final enhancement is a web application with the same concepts as the Java apllication where the user can enter pet information and it is stored in a MongoDB database
+
+## [Code Review](https://www.youtube.com/watch?v=IDAXcrFJei4)
+
+This is the link to the code review of my original Java program
